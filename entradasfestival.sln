@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "entradasfestival", "entradasfestival\entradasfestival.vbproj", "{E359C44A-31CD-4CDA-91A3-C595576895D6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "reservas", "reservas\reservas.vdproj", "{BC512332-DC0B-4331-AE12-95519036C700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E359C44A-31CD-4CDA-91A3-C595576895D6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E359C44A-31CD-4CDA-91A3-C595576895D6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E359C44A-31CD-4CDA-91A3-C595576895D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E359C44A-31CD-4CDA-91A3-C595576895D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC512332-DC0B-4331-AE12-95519036C700}.Debug|Any CPU.ActiveCfg = Release
+		{BC512332-DC0B-4331-AE12-95519036C700}.Debug|Any CPU.Build.0 = Release
+		{BC512332-DC0B-4331-AE12-95519036C700}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

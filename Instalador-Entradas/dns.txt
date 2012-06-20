@@ -1,0 +1,7 @@
+nombre dsn: entradas
+usuario: entradas
+contraseña: entradas
+
+Colocar doble conexión en propiedades del servidor, ambas x sql y por windows
+en las propiedades del servidor crear inicio de sesión llamado entradas
+después usuarios en la base de datos entradas 
